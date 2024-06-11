@@ -40,15 +40,15 @@ This project aims to demonstrate the ability to handle third party information s
 
 This endpoint provides information on ship departures by combining data from two providers.
 
-- Method**: GET
-- URL**: `/departures?date=<date>&departurePort=<port_departure>&arrivalPort=<port_arrival>`.
+- **Method**: GET
+- **URL**: `/departures?date=<date>&departurePort=<port_departure>&arrivalPort=<port_arrival>`.
 
 ### 2. `/status`.
 
 This endpoint is a simple test point that returns a message indicating that the server is up and running.
 
-- Method**: GET
-- URL**: `/status`
+- **Method**: GET
+- **URL**: `/status`
 - **Response**: `‘Server is up’`.
 
 ## Services
