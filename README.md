@@ -27,7 +27,7 @@ SUPPLIER2_PASSWORD=
 - To start the application, run the following command:
 
 ```sh
-npm run start
+npm start
 ```
 
 ## Objective
